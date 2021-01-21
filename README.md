@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm PrabanjanRaja</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-![](https://komarev.com/ghpvc/?username=code08-ind&color=orange)
-![](https://img.shields.io/badge/Age-20_Years-informational?style=flat&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Focus_On-Compettitive-Programming-informational?style=flat&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Hails_From-INDIA-informational?style=flat&logoColor=white&color=success)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prabanjanraja&label=Profile%20views&color=c12adf&style=flat" alt="prabanjanraja" /> </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prabanjanraja&label=Profile%20views&color=c12adf&style=flat" alt="prabanjanraja" /> 
+<img src="https://img.shields.io/badge/Age-20_Years-informational?style=flat&logoColor=white&color=blueviolet" alt="prabanjanraja" />
+<img src="https://img.shields.io/badge/Focus_On-Compettitive_Programming-informational?style=flat&logoColor=white&color=informationat" alt="prabanjanraja" />
+<img src="https://img.shields.io/badge/Hails_From-INDIA-informational?style=flat&logoColor=white&color=success" alt="prabanjanraja" />
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabanjanraja" alt="prabanjanraja" /></a> </p>
 
