@@ -53,4 +53,5 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Bit manipulation  techniques every programmer should know Part - 0](https://prabanjanraja.hashnode.dev/bit-manipulation-techniques-every-programmer-should-know-part-0-ckp4bm2qu005330s15axx1gvz)
 <!-- HASHNODE_BLOG:END -->
