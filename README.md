@@ -53,6 +53,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [VS Code Shortcuts every developer needs to know](https://prabanjanraja.hashnode.dev/vs-code-shortcuts-every-developer-needs-to-know-ckp9i5hs40p5ovws1h52lg4qm)
 - [CP setup for VS Code](https://prabanjanraja.hashnode.dev/cp-setup-for-vs-code-ckp5stf0r061llcs10zk62lox)
 - [Bit manipulation  techniques every programmer should know Part - 0](https://prabanjanraja.hashnode.dev/bit-manipulation-techniques-every-programmer-should-know-part-0-ckp4bm2qu005330s15axx1gvz)
 <!-- HASHNODE_BLOG:END -->
