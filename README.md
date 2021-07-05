@@ -53,6 +53,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [The benefits of having a Student mail account](https://prabanjanraja.hashnode.dev/the-benefits-of-having-a-student-mail-account-ckqpc3d320ttws2s1adie1hxe)
 - [Why does computers only understand 0s and 1s ?](https://prabanjanraja.hashnode.dev/why-does-computers-only-understand-0s-and-1s-ckpfsqt1206za4bs121og8a55)
 - [Edge The new browser for Developers](https://prabanjanraja.hashnode.dev/edge-the-new-browser-for-developers-ckpebzrvs002okms10y7a441w)
 - [VS Code Shortcuts every developer needs to know](https://prabanjanraja.hashnode.dev/vs-code-shortcuts-every-developer-needs-to-know-ckp9i5hs40p5ovws1h52lg4qm)
